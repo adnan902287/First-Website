@@ -33,20 +33,6 @@ hr{
     font-family: 'Ms Madi', cursive;
 }
 
-.cloud1{
-    width: 13%;
-    position: absolute;
-    margin-left: 450px;
-    margin-top: 150px;
-}
-
-.cloud2{
-    width: 20%;
-    position: absolute;
-    margin: 300px 150px;
-}
-
-
 .upper{
     background-color: #CDF0EA;
     text-align: center;
